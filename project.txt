@@ -1,0 +1,6 @@
+Döviz Ofisi
+*******************
+Bu döviz ofisi uygulaması, TCMB'nin günlük döviz kurlarını internetten alarak, 
+kullanıcıların döviz alış ve satış işlemlerini yapmasını sağlar. 
+Kullanıcı, Dolar veya Euro kurlarını seçerek, döviz alım-satım işlemlerini gerçekleştirebilir. 
+Uygulama, kullanıcıya işlem sonucunu ve güncel döviz kurlarını gösterir. Ayrıca, kullanıcı hatalı veri girişi yaparsa, uyarı mesajlarıyla bilgilendirilir.
